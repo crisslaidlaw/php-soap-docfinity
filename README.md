@@ -1,2 +1,2 @@
 # php-soap-docfinity
-This is my first attmept at working with GitHub repositories.
+This is my first attempt at working with GitHub repositories.
